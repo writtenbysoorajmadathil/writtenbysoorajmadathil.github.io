@@ -63,3 +63,14 @@ footer {
     background: #1f3b2c;
     color: white;
 }
+.development-notice {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 25px;
+    padding: 12px 24px;
+    display: inline-block;
+    border: 2px solid #f0ad4e;
+    border-radius: 8px;
+    background-color: rgba(240, 173, 78, 0.12);
+    letter-spacing: 0.5px;
+}
